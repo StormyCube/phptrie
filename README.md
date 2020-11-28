@@ -1,6 +1,6 @@
 PHPTrie
 =======
-This code does not belong to me it belongs to [Francisco Facioni
+This code does not belong to me, it belongs to [Francisco Facioni
 ](https://github.com/fran6co) i just added some checks to the code.
 A PHP implementation of a Trie, which is a data structure mainly used for fast string keys searches.
 
